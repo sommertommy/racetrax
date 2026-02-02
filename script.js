@@ -1,12 +1,12 @@
 let app, db;
 
 const firebaseConfig = {
-    apiKey: "YOUR_KEY",
-    authDomain: "YOUR_APP.firebaseapp.com",
-    projectId: "YOUR_APP",
-    storageBucket: "YOUR_APP.appspot.com",
-    messagingSenderId: "123",
-    appId: "1:123:web:abc"
+  apiKey: "AIzaSyDFX2Q7NuOeBIxWzloecYhicavuLjWhgsw",
+  authDomain: "racetraxpro.firebaseapp.com",
+  projectId: "racetraxpro",
+  storageBucket: "racetraxpro.firebasestorage.app",
+  messagingSenderId: "1069340025313",
+  appId: "1:1069340025313:web:1751f2ecad69f0a26bf2a0"
 };
 
 function connect(){
